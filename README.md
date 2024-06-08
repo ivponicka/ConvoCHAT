@@ -1,4 +1,4 @@
-ConvoCHAT is a versatile chat application built with Java, SpringBoot, Websocket, and ReactJS, offering seamless private messaging between users and the option for public group discussions. 
+ConvoCHAT is a versatile chat application built with Java, SpringBoot, Websocket, and ReactJS, offering seamless private messaging between users and the option for public group discussions.
 
 ![login](https://github.com/ivponicka/ConvoCHAT/assets/56002673/6e1c314d-2c91-4bf2-8725-32949d703355)
 
